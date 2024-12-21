@@ -1,4 +1,4 @@
-# Proyecto1
+# Proyecto_1
 Proporcionar insights útiles para la toma de decisiones.
 
 # Descripción del proyecto
